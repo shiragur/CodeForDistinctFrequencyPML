@@ -12,3 +12,13 @@ PseudoPMLEntropyEstimation: Implements PseudoPML appraoch for entropy estimation
 
 PseudoPMLTest: Generates samples for different distributions and invokes the algorithm in file PseudoPMLEntropyEstimation.
 
+
+
+Installation requirements:
+
+Rquires installation of CVX and CVXQUAD (https://github.com/hfawzi/cvxquad).
+
+Function to generate samples from Zipf distribution.
+
+
+
